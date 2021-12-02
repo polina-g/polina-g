@@ -2,7 +2,8 @@
 # Hi there 👋  My name is Polina! 
 
 ## About Me
-### Welcome to my Github page. A little about me: I am a software developer who loves to learn and has a strong passion for coding, problem solving and helping create bigger and better things. My decision to change careers has been the most challenging, but also one of the most rewarding thus far. I take the empathy, ability to listen to others and willingness to always learn with me as I transition from clinical psychology into the tech industry. Coding gives me new languages and tools to positively impact those around me and I am excited to continue building meaningful solutions to complex problems. I believe in working hard at achieving your goals and I aspire to never stop learning, growing and being better tomorrow than I am today.
+### Welcome to my Github page! 
+### **A little about me:** I am a clinical psychologist turned software developer who loves to learn and has a strong passion for coding, problem solving and helping create bigger and better things. My decision to change careers has been the most challenging, but also one of the most rewarding thus far. I take the empathy, ability to listen to others and willingness to always learn with me as I transition from clinical psychology into the tech industry. Coding gives me new languages and tools to positively impact those around me and I am excited to continue building meaningful solutions to complex problems. I believe in working hard at achieving your goals and I aspire to never stop learning, growing and being better tomorrow than I am today.
 <br>
 
 ## Some things to know about me:
